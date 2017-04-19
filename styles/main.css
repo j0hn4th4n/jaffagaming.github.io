@@ -1,0 +1,17 @@
+body {
+	background:#ffffff;
+	font-family: Verdana;
+}
+
+p {
+	background:#8cffe9;
+	padding: 10px;
+}
+.topbar {
+	font-size: 25px;
+	color: #000000;
+}
+
+a {
+	color: black;
+}
